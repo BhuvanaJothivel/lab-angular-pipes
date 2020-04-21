@@ -1,0 +1,29 @@
+
+.manipulations {
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.pipe {
+    width: 50%;
+    margin-top: 20px;
+    margin: auto;
+    border: 1px solid white;
+    background-color: rgb(161, 144, 144);
+}
+
+#heading{
+    margin-left: 42%;
+    color: orangered;
+}
+button {
+    background-color: orangered;
+    color: white;
+    border: 1px solid orangered;
+    text-align: center;
+    padding: 2px;
+}
+
+h3{
+    color: orangered;
+}
